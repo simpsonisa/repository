@@ -82,9 +82,9 @@ p {
     "x"
     "y"
     "z";}
-h1{font-size: 45pt;top:75px;left:10px}
-.blurbtext{font-size: 8pt;left:235px;top:182px;}
-.dots{left: 145px;top:400px;width: 200px;}
+h1{font-size: 45pt;top:75px;left:7px}
+.blurbtext{font-size: 8pt;left:240px;top:182px;}
+.dots{left: 125px;top:400px;width: 200px;}
 .redbackground{height: 2150px;width: 102vw;}
 .trim{width: 107.5vw;}
 .headline{width:107.5vw}
@@ -105,13 +105,13 @@ h1{font-size: 45pt;top:75px;left:10px}
 
 p{position:absolute;
     z-index:6;}
-.mobilebio{left:165px;margin-right: 130px;}
+.mobilebio{left:165px;margin-right: 110px;}
 
 p {
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 7;
+    -webkit-line-clamp: 5;
  }
 }
