@@ -82,13 +82,13 @@ p {
     "x"
     "y"
     "z";}
-h1{font-size: 60pt;top:45px}
-.blurbtext{font-size: 10pt;left:325px;top:195px}
-.dots{left: 185px;top:400px;width: 200px;}
+h1{font-size: 45pt;top:75px;left:10px}
+.blurbtext{font-size: 8pt;left:235px;top:182px;}
+.dots{left: 145px;top:400px;width: 200px;}
 .redbackground{height: 2150px;width: 102vw;}
 .trim{width: 107.5vw;}
 .headline{width:107.5vw}
-.site{left:-45px;position: relative;}
+.site{left:-45px;position: relative;width:200px}
 
 .name1{top:625px;}
 .name2{top:635px}
@@ -105,7 +105,7 @@ h1{font-size: 60pt;top:45px}
 
 p{position:absolute;
     z-index:6;}
-.mobilebio{left:220px}
+.mobilebio{left:165px;margin-right: 130px;}
 
 p {
     overflow: hidden;
