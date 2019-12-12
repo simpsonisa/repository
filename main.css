@@ -83,8 +83,8 @@ p {
     "y"
     "z";}
 h1{font-size: 45pt;top:75px;left:7px}
-.blurbtext{font-size: 8pt;left:240px;top:182px;}
-.dots{left: 125px;top:400px;width: 200px;}
+.blurbtext{font-size: 6pt;left:255px;top:185px;}
+.dots{left: 130px;top:400px;width: 200px;}
 .redbackground{height: 2150px;width: 102vw;}
 .trim{width: 107.5vw;}
 .headline{width:107.5vw}
@@ -105,7 +105,7 @@ h1{font-size: 45pt;top:75px;left:7px}
 
 p{position:absolute;
     z-index:6;}
-.mobilebio{left:165px;margin-right: 110px;}
+.mobilebio{left:165px;margin-right: 80px;}
 
 p {
     overflow: hidden;
